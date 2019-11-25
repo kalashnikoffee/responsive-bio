@@ -1,5 +1,30 @@
 .nav-pills {
-    color: #777777;
     float: right;
-    padding: 0px 100px 0px 0px;
+    padding: 20px 200px 20px 0px;
+}
+
+.nav-link {
+    color: #777777;
+    
+}
+
+.container {
+    font-style: none;
+    background-color: #ffffff; 
+
+}
+.my-name {
+    font-style: none;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: xx-large;
+    padding: 18px 18px 18px 18px;
+    margin: 0px 0px 0px 100px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+.header {
+    border-bottom:solid;
+    border-bottom-color: gray;
+    padding: 0px 0px 12px 0px
+    
 }
