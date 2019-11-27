@@ -1,5 +1,5 @@
 # Responsive-Bio Homework
-This is responsive bio/portfolio made using bootstrap and css, it is my first attempt at building a site with Bootstrap. The general idea is that the site layout will adjust depending on the type/size of screen it is being viewed on. The baseline site should look like the following images.
+This is responsive bio/portfolio made using bootstrap and inline styling, it is my first attempt at building a site with Bootstrap. The general idea is that the site layout will adjust depending on the type/size of screen it is being viewed on. The baseline site should look like the following images.
 
 ![Guideline for About Page](assets/images/portfolio-homework-reference-1.png)
 ![Guideline for Contact Page](assets/images/portfolio-homework-reference-2.png)
