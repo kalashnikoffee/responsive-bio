@@ -8,33 +8,20 @@ This is responsive bio/portfolio made using bootstrap and css, it is my first at
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The site is live with a link listed under the Deployed Link section
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+WNo prerequisites to view or edit. I used Visual Studio Code to do so, and you're more than welcome to follow suit. Gti Bash may also be useful for cloning/pulling the repo.
 
-```
-Give examples
-```
+-- Visual Studio Code: https://code.visualstudio.com/
+-- Git Bash: https://git-scm.com/downloads
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Clone the repository found here: https://github.com/kalashnikoffee/responsive-bio to your local machine, and go to town!
 
 
 ## Built With
@@ -42,21 +29,21 @@ End with an example of getting some data out of the system or using it for a lit
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Deployed Link
 
-* [See Live Site](#)
+* https://kalashnikoffee.github.io/responsive-bio/
 
 
 ## Authors
 
-* **YOUR NAME** 
+Lucas Coffee
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Portfolio Site](https://kalashnikoffee.github.io/responsive-bio/)
+- [Link to Github](https://github.com/kalashnikoffee)
+- [Link to LinkedIn](https://www.linkedin.com/in/lucas-coffee-08853719/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -64,6 +51,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+Thanks again to Jerome, Kerwin, and Mahisha for their guidance.
